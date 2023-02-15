@@ -63,7 +63,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then((response) => {
-            const readme = 'projectREADME.md';
+            const readme = 'README.md';
             writeToFile(readme, response)
         })
 }
