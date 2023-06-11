@@ -4,6 +4,8 @@
 
   The PRO README Maker is a command line-run application aimed at developers. It uses a series of command line prompts to ultimately allow a developer to create a professional README. This application will ask questions regarding a project's name and other information regarding the project to be used in the Description, Usage, License, Contributing, Tests, and Questions sections of a professional README. By properly answering all command line prompt questions, this README will include a table of contents with functional links to the proper sections, a license badge, and (in the Question section specifically) information on how to contact the developer. This section will include a functional link to the developer's GitHub account.By completing this project, I gained a better understanding of the Node.js environment and its difference from a window browser environment, as well as exporting/importing js modules and specifically using the inquirer package.
 
+  Upon running the program, a developer's terminal should look like the following screenshot: [!Screenshot of Sample Generator](./screenshots//generator.png)
+
   ---
   ## Table of Contents 
 
